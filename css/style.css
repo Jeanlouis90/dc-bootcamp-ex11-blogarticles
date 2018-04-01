@@ -1,0 +1,47 @@
+.logo{
+    font-family: 'Source Sans Pro';
+    font-weight: 800;
+    max-width: 700px;
+    width: 80%;
+    margin: 20px auto;
+
+}
+
+.body{
+    border: 20px solid #bcd3c7;
+    padding: 20px;
+    max-width: 700px;
+    width: 80%;
+    margin: 20px auto;
+    font-family: 'Source Sans Pro';
+}
+
+.post{
+    margin-bottom: 20px;
+
+}
+
+.date{
+    text-transform: uppercase;
+    color: #3498db;
+    letter-spacing: 0.2rem;
+
+}
+
+.quote{
+    border-left: 5px solid #bcd3c7;
+    padding-left: 5px;
+
+}
+
+h2{
+    color: #2c3e50;
+    font-size: 2.0rem;
+}
+
+hr{
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
